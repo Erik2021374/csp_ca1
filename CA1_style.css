@@ -1,17 +1,42 @@
+/* Heads style letter changed to give more visual to the page */
+
 h1{
+  text-align: center;
   font-family: luminari;
   font-style: italic;
+  color: white;
 }
 
 h2{
 
 font-family: luminari;
 font-style: italic;
+color: white;
 
 }
+
+/* Letter style in the old egypt */
 
 p{
 
   font-family: papyrus;
+  font-style: oblique;
+  color: white;
 
+}
+
+body{
+
+background-color: black;
+
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  box-shadow: 0 0 2px 1px yellow
 }
